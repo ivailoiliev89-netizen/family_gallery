@@ -1,0 +1,23 @@
+#gallery {
+            color: white;
+            background-color: pink;
+            font-family: "Caveat";
+        }
+
+        #about {color: purple;
+            font-family: "Dancing Script";
+            font-size: 25px;
+        }
+
+        #home {
+            color: blueviolet;
+            font-family: "Jost";
+        }
+
+        .card {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .card:hover {
+            transform: translateY(-6px);
+            box-shadow: 0 12px 25px rgba(0,0,0,0.2);
+            }
