@@ -32,8 +32,3 @@ A simple responsive family website built with **HTML, CSS and Bootstrap 5**.
 - Working with images in HTML
 - Page layout basics
 - Organizing static web projects
-
-## Author
-
-Ivailo Iliev
-GitHub: https://github.com/ivailoiliev89-netizen
